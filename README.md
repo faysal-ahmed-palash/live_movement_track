@@ -9,7 +9,7 @@ A Flutter app that tracks your live location using `flutter_map`, `geolocator`, 
 
 ## 📱 App Screenshot
 
-![Location Tracker Screenshot](screenshorts/location.jpeg)
+![Location Tracker Screenshot](screenshots/location.jpeg)
 
 ## 🚀 Getting Started
 
