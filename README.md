@@ -1,16 +1,20 @@
-# my_location_track
+# 📍 My Location Track
 
-A new Flutter project.
+A Flutter app that tracks your live location using `flutter_map`, `geolocator`, and `flutter_map_animations`.
 
-## Getting Started
+- Smoothly animates the map to your real-time GPS position
+- Updates every few meters automatically
+- Draws a polyline of your route
+- Shows current latitude and longitude on marker tap
 
-This project is a starting point for a Flutter application.
+## 📱 App Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![Location Tracker Screenshot](screenshorts/location.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the project:
+
+```bash
+flutter pub get
+flutter run
